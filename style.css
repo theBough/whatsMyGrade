@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:#00296B ;
+  text-align: center;
+  justify-content: center;
+}
+.myTitle{
+  background-color: #003F88;
+  font-size: 46px;
+  color: #FFD500;
+   text-align: center;
+  justify-content: center;
+  border: solid 10px;
+  border-color: #FFD500;
+  padding: 30px;
+}
+.my-Content{
+  background-color: #00509D;
+   text-align: center;
+  justify-content: center;
+  border: solid 10px;
+  border-color: #FFD500;
+  padding: 30px;
+}
+.my-Lable{
+  background-color: #00509D;
+  color:#FDC500;
+  font-size: 24px;
+  
+}
+.my-input{
+   background-color: #00509D;
+  color:#FDC500;
+  font-size: 24px;
+}
+.my-answer{
+   background-color: #00509D;
+  color:#FDC500;
+  font-size: 36px;
+}
+.my-button{
+   background-color: #00509D;
+  color:#FDC500;
+  font-size: 24px;
+}
